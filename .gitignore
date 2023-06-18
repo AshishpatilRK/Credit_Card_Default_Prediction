@@ -23,6 +23,7 @@ wheels/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
+credit_card_default_pdn.egg-info
 .installed.cfg
 *.egg
 MANIFEST
